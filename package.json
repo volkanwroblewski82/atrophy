@@ -1,0 +1,10 @@
+{
+  "name": "atrophy",
+  "version": "0.1.0",
+  "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
